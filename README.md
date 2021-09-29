@@ -1,6 +1,9 @@
 👋 Hi, I’m @Matthaeus07
+
 👀 I’m interested in coding and computing.
+
 👨‍💻 Master at Python, C#, Java, Lua, JavaScript, HTML and CSS.
+
 🌱 I’m currently learning C and C++.
 
 <!---

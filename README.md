@@ -4,7 +4,7 @@
 
 👨‍💻 Master at Python.
 
-🌱 I’m currently learning C#, Java, HTML, CSS.
+🌱 I’m currently learning C#, Java, HTML, CSS, Javascript.
 
 <!---
 Matthaeus07/Matthaeus07 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

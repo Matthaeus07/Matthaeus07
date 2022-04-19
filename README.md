@@ -2,9 +2,9 @@
 
 👀 I’m interested in coding and computing.
 
-👨‍💻 Master at Python.
+👨‍💻 Master at C#, Python, HTML, CSS.
 
-🌱 I’m currently learning C#, Java, HTML, CSS, Javascript.
+🌱 I’m currently learning Java, Javascript.
 
 <!---
 Matthaeus07/Matthaeus07 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
